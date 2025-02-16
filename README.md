@@ -29,7 +29,7 @@ git clone https://github.com/simongwatts/password-generator.git
 
 cd password-generator
 
-dotnet run
+dotnet run --project PasswordGenerator.Cli -- --length 24 --count 3
 
 ## Tech Stack 🏗️
 
