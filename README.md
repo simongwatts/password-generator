@@ -26,13 +26,17 @@ Run the application and follow the prompts to generate secure passwords. Options
 To build and run from source:
 
 git clone https://github.com/simongwatts/password-generator.git
+
 cd password-generator
+
 dotnet run
 
 ## Tech Stack 🏗️
 
 .NET 8 - Core framework
+
 C# - Primary language
+
 System.Security.Cryptography - Random generation
 
 ## License 📜
